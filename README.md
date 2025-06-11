@@ -36,32 +36,32 @@ I'm a passionate web developer specializing in building robust websites and web 
 
 ---
 
-### Web Programming Languages
+### ✨ Web Programming Languages
 
 ![PHP](https://github.com/ranijayaraj/ranijayaraj/blob/main/php-med-trans.png)
 ![Java](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-java-100.png)
 
 
-### Web Development
+### ✨ Web Development
 
 ![Javascript](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-javascript-100.png)
 ![HTML](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-html5-100.png)
 ![CSS](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-css3-100.png)
 ![Next.js](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-nextjs-100.png)
 
-### PHP Frameworks
+### ✨ PHP Frameworks
 
 ![Wordpress](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-wordpress-100.png)
 ![Joomla](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-joomla-100.png)
 ![Drupal](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-drupal-100.png)
 ![Magento](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-magento-100.png)
 
-### Database
+### ✨ Database
 
 ![MySQL](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-mysql-100.png)
 ![SQL](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-sql-100.png)
 
-### Tools
+### 🛠️ Tools
 
 ![VS Code](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-visual-studio-code-100.png)
 ![Dreamweaver](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-adobe-dreamweaver-100.png)
