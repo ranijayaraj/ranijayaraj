@@ -1,16 +1,44 @@
-## Hi There, 👋
+![GitHub Avatar](https://avatars.githubusercontent.com/u/ranijayaraj?v=4)
 
-I`m Rani working as a Freelancer Web Developer<!--
-**ranijayaraj/ranijayaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rani Jayaraj 👋
 
-Here are some ideas to get you started:
+**Web Developer | PHP | HTML | CSS | JavaScript | Next.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🚀 About Me
+
+I'm a passionate web developer specializing in building robust websites and web apps using the latest technologies. Whether it's crafting custom solutions in PHP or designing sleek interfaces with Next.js, I love turning creative ideas into digital reality.
+
+- ✨ Top Skills: **PHP, HTML, CSS, JavaScript, Next.js**
+- 🛠️ Favorite platforms: **WordPress, Joomla**
+- 🎨 Hobbies: **Reading** and **Painting**
+- 🔭 I’m currently working on **Next.js**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: ranijayaraj274@gmail.com
+- 💡 Motto: _“Believe you can and you’re halfway there.”_
+
+---
+
+### 🌟 Featured Projects
+
+- **WordPress**: Custom themes, plugins, and site optimizations.
+- **Joomla**: Extensions, templates, and powerful CMS solutions.
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Website](https://img.shields.io/badge/Website-000?logo=globe&logoColor=white)](YOUR_WEBSITE_URL)
+
+---
+
+<!-- Optionally, you can add GitHub stats here! -->
+
+<!--
+![Rani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranijayaraj&show_icons=true&theme=radical)
 -->
+  
