@@ -59,6 +59,12 @@ I'm a passionate web developer specializing in building robust websites and web 
 ### Database
 
 ![MySQL](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-mysql-100.png)
+![SQL](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-mysql-100.png)
+
+### Tools
+
+![VS Code](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-mysql-100.png)
+![Dreamweaver](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-mysql-100.png)
 
 
 <!-- Optionally, you can add GitHub stats here! -->
