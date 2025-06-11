@@ -41,6 +41,7 @@ I'm a passionate web developer specializing in building robust websites and web 
 ![Javascript](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-javascript-100.png)
 ![HTML](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-html5-100.png)
 ![CSS](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-css3-100.png)
+![PHP](https://github.com/ranijayaraj/ranijayaraj/blob/main/php-med-trans.png)
 
 <!-- Optionally, you can add GitHub stats here! -->
 
