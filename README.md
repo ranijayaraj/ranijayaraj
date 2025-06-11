@@ -38,7 +38,8 @@ I'm a passionate web developer specializing in building robust websites and web 
 
 ### Programming Languages
 
-(https://github-readme-stats.vercel.app/api?username=ranijayaraj&show_icons=true&theme=radical)
+(https://github.com/ranijayaraj/ranijayaraj/icons8-javascript.gif)
+
 <!-- Optionally, you can add GitHub stats here! -->
 
 <!--
