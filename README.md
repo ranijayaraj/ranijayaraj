@@ -36,12 +36,22 @@ I'm a passionate web developer specializing in building robust websites and web 
 
 ---
 
-### Programming Languages
+### Web Programming Languages
+
+![PHP](https://github.com/ranijayaraj/ranijayaraj/blob/main/php-med-trans.png)
+![Java](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-java-100.png)
+
+
+### Web Development
 
 ![Javascript](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-javascript-100.png)
 ![HTML](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-html5-100.png)
 ![CSS](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-css3-100.png)
-![PHP](https://github.com/ranijayaraj/ranijayaraj/blob/main/php-med-trans.png)
+
+### PHP Frameworks
+
+[Wordpress](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-wordpress-100.png)
+[Joomla](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-joomla-100.png)
 
 <!-- Optionally, you can add GitHub stats here! -->
 
