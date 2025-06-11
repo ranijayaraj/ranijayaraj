@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi There, 👋
 
-<!--
+I`m Rani working as a Freelancer Web Developer<!--
 **ranijayaraj/ranijayaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
