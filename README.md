@@ -38,7 +38,7 @@ I'm a passionate web developer specializing in building robust websites and web 
 
 ### Programming Languages
 
-[!(https://github.com/ranijayaraj/icons8-javascript.gif)]Javascript
+![Javascript](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-javascript.gif)
 
 <!-- Optionally, you can add GitHub stats here! -->
 
