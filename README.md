@@ -50,8 +50,11 @@ I'm a passionate web developer specializing in building robust websites and web 
 
 ### PHP Frameworks
 
-[Wordpress](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-wordpress-100.png)
-[Joomla](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-joomla-100.png)
+![Wordpress](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-wordpress-100.png)
+![Joomla](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-joomla-100.png)
+![Drupal](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-drupal-100.png)
+![Magento](https://github.com/ranijayaraj/ranijayaraj/blob/main/icons8-magento-100.png)
+
 
 <!-- Optionally, you can add GitHub stats here! -->
 
